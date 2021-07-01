@@ -63,13 +63,13 @@
 
 ## JMeter工作原理
 
-![](F:\myworkfirst\云测平台\jmeter调研\工作原理图片.png)
+![](https://github.com/xztybest/cloud_test/blob/picturetmp/%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%9B%BE%E7%89%87.png)
 
 *****
 
 ## JMeter组件图
 
-![](F:\myworkfirst\云测平台\jmeter调研\JMeter组件图.png)
+![](https://github.com/xztybest/cloud_test/blob/picturetmp/JMeter%E7%BB%84%E4%BB%B6%E5%9B%BE.png)
 
 ## JMeter作用
 
@@ -82,7 +82,7 @@
 
 ## JMeter功能调研
 
-由于文档过长，请参考链接：
+由于文档过长，请参考链接：https://github.com/xztybest/cloud_test/blob/templatesfile/jmeter%E5%8A%9F%E8%83%BD%E8%B0%83%E7%A0%94.pdf
 
 
 
