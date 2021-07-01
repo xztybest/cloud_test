@@ -62,7 +62,7 @@
 
 ## JMeter组件图
 
-![](https://imgtu.com/i/RrmQaR)
+![](https://github.com/xztybest/cloud_test/blob/picturetmp/JMeter%E7%BB%84%E4%BB%B6%E5%9B%BE.png)
 
 ## JMeter作用
 
