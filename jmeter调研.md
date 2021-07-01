@@ -43,6 +43,10 @@
 4. 利用badboy录制测试脚本，可以快速的形成测试脚本
 5. 使用参数化以及Jmeter提供的函数功能，可以快速完成测试数据的添加修改等
 6. 功能测试和性能测试均可完成
+7. 开源免费
+8. 支持多协议
+9. 小巧
+10. 高效、功能强大
 
 ### 缺点
 
@@ -51,22 +55,34 @@
 3. 就算是jmeter脚本顺利执行，依旧无法确定程序是否正确执行，有时候需要进入程序查看，或者查看Jmeter的响应数据。
 4. Jmeter脚本的维护需要保存为本地文件，而每个脚本文件只能保存一个测试用例，不利于脚本的维护。
 5. Jmeter的测试脚本的管理不可以纳入版本控制。
+6. 不支持前端测试
+7. 不支持IP欺骗
+8. 使用过程中单位不规范（有时候单位秒、分）
 
 *****
 
 ## JMeter工作原理
 
-![](https://github.com/xztybest/cloud_test/blob/picturetmp/%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%9B%BE%E7%89%87.png)
+![](F:\myworkfirst\云测平台\jmeter调研\工作原理图片.png)
 
 *****
 
 ## JMeter组件图
 
-![](https://github.com/xztybest/cloud_test/blob/picturetmp/JMeter%E7%BB%84%E4%BB%B6%E5%9B%BE.png)
+![](F:\myworkfirst\云测平台\jmeter调研\JMeter组件图.png)
 
 ## JMeter作用
 
+1. 接口测试
+2. 性能测试：程序算法
+3. 压力测试：外在负载
+4. web自动化测试
+5. 数据库测试
+6. java测试
 
+## JMeter功能调研
+
+由于文档过长，请参考链接：
 
 
 
