@@ -56,13 +56,13 @@
 
 ## JMeter工作原理
 
-![](F:\myworkfirst\云测平台\jmeter调研\工作原理图片.png)
+![](https://imgtu.com/i/RrmMZ9)
 
 *****
 
 ## JMeter组件图
 
-![](F:\myworkfirst\云测平台\jmeter调研\JMeter组件图.png)
+![](https://imgtu.com/i/RrmQaR)
 
 ## JMeter作用
 
