@@ -56,7 +56,7 @@
 
 ## JMeter工作原理
 
-![](https://imgtu.com/i/RrmMZ9)
+![](https://github.com/xztybest/cloud_test/blob/picturetmp/%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%9B%BE%E7%89%87.png)
 
 *****
 
